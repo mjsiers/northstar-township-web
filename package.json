@@ -1,0 +1,16 @@
+{
+  "name": "northstar-township-web",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:mjsiers/northstar-township-web.git",
+  "author": "Michael Siers <mjsiers@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"   
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
