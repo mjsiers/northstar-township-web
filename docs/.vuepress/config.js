@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/northstar-township-web/',
     title: 'Scotch VuePress',
     description: "A demo documentation using VuePress",
     themeConfig:{
