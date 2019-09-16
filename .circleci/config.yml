@@ -25,6 +25,10 @@ jobs:
     #https://circleci.com/docs/2.0/yarn/
 
     steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "34:ec:79:ac:4e:41:b9:bc:c8:e2:ba:fa:3e:8c:6a:41"
+
       - checkout
       #- restore_cache:
       #    name: Restore Yarn Package Cache
@@ -46,9 +50,6 @@ jobs:
           command: |
             yarn docs:build
 
-      #- add_ssh_keys:
-      #    fingerprints:
-      #      - "34:ec:79:ac:4e:41:b9:bc:c8:e2:ba:fa:3e:8c:6a:41"
 
       - deploy:
           name: Deploy
