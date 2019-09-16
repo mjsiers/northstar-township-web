@@ -1,3 +1,4 @@
+let minutesSideBarPaths = ["/minutes/", "/minutes/tags/"]
 module.exports = {
     base: '/northstar-township-web/',
     title: 'North Star Township',
@@ -15,7 +16,7 @@ module.exports = {
             collapsable: false,
             children: [
               '/township/supervisors',
-              '/township/events'
+              '/township/events',
             ]
           },
           {
