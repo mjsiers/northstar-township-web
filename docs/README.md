@@ -1,14 +1,11 @@
 ---
 home: true
-actionText: See Counter App
-actionLink: /counter/counter-app
 features:
-- title: Embedded Vue Counter
-  details: A Vue counter developed using Vue is embedded in this doc, now thats the power of VuePress!
-- title: Fun Docs made with VuePress
-  details: This entire doc was basically made with VuePress which parsed markdown files and corresponding assets using webpack.  
-- title: Fun Docs made with VuePress
-  details: This entire doc was basically made with VuePress which parsed markdown files and corresponding assets using webpack.
-footer: Developed using VuePress by William Imoh
+- title: Fire/EMS
+  details: To be determined...
+- title: Township Board
+  details: To be determined...
+- title: Recycling Center
+  details: To be determined...
+footer: Copyright, North Star Township 2019
 ---
-<my-header></my-header>

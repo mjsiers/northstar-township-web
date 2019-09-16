@@ -1,28 +1,31 @@
 module.exports = {
     base: '/northstar-township-web/',
-    title: 'Scotch VuePress',
-    description: "A demo documentation using VuePress",
+    title: 'North Star Township',
+    description: "St. Louis County, Minnesota",
     themeConfig:{
         nav: [
-            { text: 'COUNTER', link: '/counter/' },
-            { text: 'GUIDE', link: '/guide/' },
+          { text: 'BOARD', link: '/township/' },
+          { text: 'FIRE/EMS', link: '/fireems/' },
+          { text: 'RECYCLING', link: '/recycling/' },
+          { text: 'ABOUT', link: '/about/' },
         ],
         sidebar: [
-            {
-              title: 'Counter',
-              collapsable: false,
-              children: [
-                '/counter/counter-app'
-              ]
-            },
-            {
-              title: 'API Guide',
-              collapsable: false,
-              children: [
-                  '/guide/guide',
-                  '/guide/api'
-              ]
-            }
-          ]
+          {
+            title: 'Township Board',
+            collapsable: false,
+            children: [
+              '/township/supervisors',
+              '/township/events'
+            ]
+          },
+          {
+            title: 'Fire/EMS',
+            collapsable: false,
+            children: [
+              '/fireems/members',
+              '/fireems/events'
+            ]
+          }
+        ]
     }
 }
