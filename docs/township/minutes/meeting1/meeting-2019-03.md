@@ -5,7 +5,8 @@ categories: [Budget]
 tags: [Budget]
 ---
 
-# North Star Township Board Meeting Minutes [Mar-2019]
+# North Star Township Board Meeting Minutes
+### 2019-March
 
 <MeetingMinutesMeta />
 

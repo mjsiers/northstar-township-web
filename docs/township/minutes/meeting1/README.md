@@ -5,7 +5,8 @@ categories: [Budget, Roads, Fire]
 tags: [Fire]
 ---
 
-# North Star Township Board Meeting Minutes [Jan-2019]
+# North Star Township Board Meeting Minutes
+### 2019-January
 
 <MeetingMinutesMeta />
 

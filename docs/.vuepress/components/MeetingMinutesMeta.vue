@@ -3,13 +3,13 @@
     <div v-if="$page.frontmatter.date">Published {{ formatDate($page.frontmatter.date) }}</div>
     <span v-if="$page.frontmatter.categories">
       Categorized:
-      <a v-for="(category, index) in $page.frontmatter.categories" :key="index" :href="'/blog/categories/#'+formatAnchor(category)">
+      <a v-for="(category, index) in $page.frontmatter.categories" :key="index" :href="'/township/minutes/categories/#'+formatAnchor(category)">
         {{category}}
       </a>
     </span>
     <span v-if="$page.frontmatter.tags">
       Tagged:
-      <a v-for="(tag, index) in $page.frontmatter.tags" :key="index" :href="'/blog/tags/#'+formatAnchor(tag)">
+      <a v-for="(tag, index) in $page.frontmatter.tags" :key="index" :href="'/township/minutes/tags/#'+formatAnchor(tag)">
         {{tag}}
       </a>
     </span>
