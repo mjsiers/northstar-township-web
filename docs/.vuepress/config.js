@@ -38,7 +38,7 @@ module.exports = {
             id: 'townminutes',
             dirname: '_minutes/township',
             path: '/township/minutes/posts/',
-            itemPermalink: '/township/minutes/posts/:year/:month/:day/:slug',
+            itemPermalink: '/township/minutes/posts/:year/:month/:slug',
             layout: 'Layout',
             itemLayout: 'Layout',
             pagination: {
