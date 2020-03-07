@@ -8,7 +8,6 @@ module.exports = {
           { text: 'BOARD', link: '/township/' },
           { text: 'FIRE/EMS', link: '/fireems/' },
           { text: 'RECYCLING', link: '/recycling/' },
-          { text: 'ABOUT', link: '/about/' },
         ],
         sidebar: [
           {
@@ -16,6 +15,7 @@ module.exports = {
             collapsable: false,
             children: [
               '/township/supervisors',
+              '/township/meetings',
               '/township/events',
             ]
           },
