@@ -1,4 +1,3 @@
-let minutesSideBarPaths = ["/minutes/", "/minutes/tags/"]
 module.exports = {
     base: '/northstar-township-web/',
     title: 'North Star Township',
@@ -38,8 +37,8 @@ module.exports = {
           {
             id: 'townminutes',
             dirname: '_minutes/township',
-            path: '/township/minutes',
-            itemPermalink: '/township/minutes/:year/:month/:day/:slug',
+            path: '/township/minutes/posts/',
+            itemPermalink: '/township/minutes/posts/:year/:month/:day/:slug',
             layout: 'Layout',
             itemLayout: 'Layout',
             pagination: {
