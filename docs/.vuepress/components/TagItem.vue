@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h2>
+    <h3>
       <a :href="'#'+formatAnchor(tag.tag)" aria-hidden="true" class="header-anchor">#</a>
       {{ tag.tag }} [{{ num_pages }}]
-    </h2>
+    </h3>
     <div v-for="item in tag.pages">
       <a :href="item.path"> {{ formatDate(item.date) }}</a>
     </div>

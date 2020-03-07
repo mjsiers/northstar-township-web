@@ -15,8 +15,11 @@ module.exports = {
             collapsable: false,
             children: [
               '/township/supervisors',
+              '/township/staff',
               '/township/meetings',
-              '/township/events',
+              '/township/minutes/',
+              '/township/minutes/tag/', 
+              '/township/minutes/archive/',      
             ]
           },
           {
@@ -28,5 +31,22 @@ module.exports = {
             ]
           }
         ]
-    }
+    },
+    plugins: [
+      ['@vuepress/blog', {
+        directories: [
+          {
+            id: 'townminutes',
+            dirname: '_minutes/township',
+            path: '/township/minutes',
+            itemPermalink: '/township/minutes/:year/:month/:day/:slug',
+            layout: 'Layout',
+            itemLayout: 'Layout',
+            pagination: {
+              perPagePosts: 15,
+            },
+          },
+        ],
+      }]
+    ]
 }

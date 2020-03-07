@@ -4,7 +4,7 @@
         <a v-bind:href="post.path">{{ post.frontmatter.title }}</a>
         <div class="keywords">
             <span v-if="post.frontmatter.tags">
-                <a class="keyword" v-for="(tag, index) in post.frontmatter.tags" :key="index" :href="'/post/tag/#'+formatAnchor(tag)">
+                <a class="keyword" v-for="(tag, index) in post.frontmatter.tags" :key="index" :href="'/township/minutes/tag/#'+formatAnchor(tag)">
                     {{tag}}
                 </a>
             </span>
@@ -19,7 +19,7 @@ export default {
         posts() {
             console.log(this.$site)
             return this.$site.pages
-                .filter(x => x.path.startsWith('/post/') && x.frontmatter.blog_post)
+                .filter(x => x.path.startsWith('/township/minutes/') && x.frontmatter.blog_post)
                 .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
         }
     },

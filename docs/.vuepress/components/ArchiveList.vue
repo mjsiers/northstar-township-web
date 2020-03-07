@@ -14,7 +14,7 @@ export default {
     },
     computed: {
         tags() {
-            var posts = this.$site.pages.filter(x => x.path.startsWith('/post/') && x.frontmatter.blog_post)
+            var posts = this.$site.pages.filter(x => x.path.startsWith('/township/minutes/') && x.frontmatter.blog_post)
                                         .sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
             console.log(posts)
 
