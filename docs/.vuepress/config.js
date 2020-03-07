@@ -8,7 +8,6 @@ module.exports = {
           { text: 'BOARD', link: '/township/' },
           { text: 'FIRE/EMS', link: '/fireems/' },
           { text: 'RECYCLING', link: '/recycling/' },
-          { text: 'ABOUT', link: '/about/' },
         ],
         sidebar: [
           {
@@ -16,7 +15,11 @@ module.exports = {
             collapsable: false,
             children: [
               '/township/supervisors',
-              '/township/events',
+              '/township/staff',
+              '/township/meetings',
+              '/township/minutes/',
+              '/township/minutes/tag/', 
+              '/township/minutes/archive/',      
             ]
           },
           {
@@ -28,5 +31,22 @@ module.exports = {
             ]
           }
         ]
-    }
+    },
+    plugins: [
+      ['@vuepress/blog', {
+        directories: [
+          {
+            id: 'townminutes',
+            dirname: '_minutes/township',
+            path: '/township/minutes',
+            itemPermalink: '/township/minutes/:year/:month/:day/:slug',
+            layout: 'Layout',
+            itemLayout: 'Layout',
+            pagination: {
+              perPagePosts: 15,
+            },
+          },
+        ],
+      }]
+    ]
 }
