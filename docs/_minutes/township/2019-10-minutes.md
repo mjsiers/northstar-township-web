@@ -1,5 +1,5 @@
 ﻿---
-title: Township Minutes (October, 2019)
+title: Minutes (Oct., 2019)
 date: 2019-10-21
 blog_post: true
 tags: 

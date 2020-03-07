@@ -1,5 +1,5 @@
 ﻿---
-title: Township Minutes (August, 2019)
+title: Minutes (Aug., 2019)
 date: 2019-08-19
 blog_post: true
 tags: 
