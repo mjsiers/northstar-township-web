@@ -5,7 +5,7 @@ blog_post: true
 tags: 
   - Election
   - Maintenance
-  - Fire/EMS Training
+  - FireEMS Training
 sidebar: auto
 ---
 

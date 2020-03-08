@@ -1,10 +1,10 @@
 <template>
 <div>
     <div class="article" v-for="post in posts">
-        <a v-bind:href="post.path">{{ post.frontmatter.title }}</a>
+        <a v-bind:href="formatPath(post.path)">{{ post.frontmatter.title }}</a>
         <div class="keywords">
             <span v-if="post.frontmatter.tags">
-                <a class="keyword" v-for="(tag, index) in post.frontmatter.tags" :key="index" :href="'/township/minutes/tag/#'+formatAnchor(tag)">
+                <a class="keyword" v-for="(tag, index) in post.frontmatter.tags" :key="index" :href="formatTag(tag)">
                     {{tag}}
                 </a>
             </span>
@@ -24,9 +24,15 @@ export default {
         }
     },
     methods: {
-        formatAnchor(string) {
-            return string.toLowerCase().replace(/ /g, "-")
-        }
+        formatPath(path) {
+          var fullpath = '/northstar-township-web' + path
+          return fullpath
+        },
+        formatTag(tag) {
+            var anchor = tag.toLowerCase().replace(/ /g, "-")
+            var fullpath = '/northstar-township-web/township/minutes/tag/#' + anchor
+            return fullpath
+        },
     }
 }
 </script>

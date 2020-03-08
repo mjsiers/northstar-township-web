@@ -3,7 +3,7 @@ title: Minutes (Aug., 2019)
 date: 2019-08-19
 blog_post: true
 tags: 
-  - Fire/EMS Grants
+  - FireEMS Grants
   - Parking Lot
   - Road
   - Internet
