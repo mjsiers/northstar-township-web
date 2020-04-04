@@ -11,18 +11,18 @@ features:
 footer: Copyright, North Star Township 2020.
 ---
 
+::: danger Board Meeting Change Notice
+Due to the COVID-19 pandemic, the April Board meeting will be held as a conference call.
+The dial in phone number and access code/PIN will be posted here to ensure the public 
+has an opportunity to attend the meeting.
+:::
 
 ::: warning Upcoming Events
-**Township Annual Meeting (Thursday, March 10 2020 @ 8:00pm)** <br>
-**Fire/EMS Business Meeting (Wednesday, April 8 2020 @ 6:30pm)** <br>
+**April Board Meeting (Monday, April 20 2020 @ 6:30pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)**
 :::
 
-::: tip High Speed Internet (Fake News)
-Cooperative Light and Power (CLP) will be holding an informational meeting
-about their grant proposal to fund high speed internet in our area.
-:::
-
-::: danger Burning Ban (Fake News)
-The Minnesota DNR has activated a burning ban for the region that includes North Star township.  No burning permits will be issued until further notice.
+::: tip Web Site Under Construction
+We are actively working on the design/implementation of the new North Star Township 
+web site.  Please understand that not all features are fully operation yet.
 :::
