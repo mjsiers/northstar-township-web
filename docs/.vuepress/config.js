@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/northstar-township-web/',
+    base: '/',
     title: 'North Star Township',
     description: "St. Louis County, Minnesota",
     themeConfig:{
