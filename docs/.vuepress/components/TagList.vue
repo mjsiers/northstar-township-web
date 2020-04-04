@@ -22,7 +22,7 @@ export default {
             for (var i = 0; i < posts.length; i++) {
                 var tags = posts[i].frontmatter.tags
                 for (var j = 0; j < tags.length; j++) {
-                    var path = '/' + posts[i].path
+                    var path = posts[i].path
                     var item = tagMap.get(tags[j])
                     var page = {'title': posts[i].title, 'date':posts[i].frontmatter.date,  'path': path}
                     if (item === undefined) {

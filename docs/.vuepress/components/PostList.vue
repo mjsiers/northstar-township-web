@@ -25,8 +25,9 @@ export default {
     },
     methods: {
         formatPath(path) {
-          var fullpath = '/' + path
-          return fullpath
+          //var fullpath = '/' + path
+          //return fullpath
+          return path
         },
         formatTag(tag) {
             var anchor = tag.toLowerCase().replace(/ /g, "-")
