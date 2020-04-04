@@ -22,7 +22,7 @@ export default {
             for (var i = 0; i < posts.length; i++) {
                 var date = new Date(posts[i].frontmatter.date)
                 var year = date.getFullYear().toString()
-                var path = '/' + posts[i].path
+                var path = posts[i].path
                 var page = {'title': posts[i].title, 'date':posts[i].frontmatter.date,  'path': path}
 
                 var item = tagMap.get(year)
