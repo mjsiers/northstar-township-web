@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In interdum in sapien s
 - [Lakewood Township](https://sites.google.com/site/lakewoodtownshipmn/)
 - [Kabetogama Township](http://www.kabtownship.org/)
 
-### Goals
+### Web Site Goals
  - [X] Web site built from plain text files.
  - [X] Web site that can be easily mantained and updated.
  - [X] Provide public with notification messages from the township.
@@ -24,18 +24,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In interdum in sapien s
  - [X] Provide public with information about the Recycling Center.
  - [ ] Provide public with information about Fire/EMS Department activities.
  - [ ] Configure and use email addresses for township staff?
-
-### Proposed Hosting Services 
-- NameCheap (Web Site Domain Registration)
-- GitHub (Web Site Source Files and Hosting)
-- CircleCi (Web Site Building and Deployment)
-- Zoho Mail (Secure Email Hosting)
-
-### Costs
-A registered domain name will cost **$12.98** per year.<br>
-No other hosting costs since it is built using free web and email hosting services.
-
-#### Available Domain Names
-- **northstartownship.org**
-- *northstarmn.org*
-- *townofnorthstar.org*
