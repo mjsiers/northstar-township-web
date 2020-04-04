@@ -25,7 +25,7 @@ export default {
     },
     methods: {
         formatPath(path) {
-          var fullpath = '/northstartownship.org' + path
+          var fullpath = '/' + path
           return fullpath
         },
         formatTag(tag) {
