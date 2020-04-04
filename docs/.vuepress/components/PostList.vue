@@ -25,12 +25,12 @@ export default {
     },
     methods: {
         formatPath(path) {
-          var fullpath = '/northstar-township-web' + path
+          var fullpath = '/' + path
           return fullpath
         },
         formatTag(tag) {
             var anchor = tag.toLowerCase().replace(/ /g, "-")
-            var fullpath = '/northstar-township-web/township/minutes/tag/#' + anchor
+            var fullpath = '/township/minutes/tag/#' + anchor
             return fullpath
         },
     }
