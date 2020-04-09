@@ -13,7 +13,8 @@ footer: Copyright, North Star Township 2020.
 
 ::: danger Board Meeting Change Notice
 Due to the COVID-19 pandemic, the next Board Meeting on **April 20 2020 @ 6:30pm** will be held 
-as a conference call.  The dial in phone number and access PIN are posted below.
+as a conference call.  The phone number and access PIN are posted below. Please use a cellphone or 
+internet calling application in order to avoid a long-distance charge.
 
 **Dial-In Number: 712-770-4927  PIN Number: 718924#**  
 [Click Here For Agenda](/township/agenda.md)
