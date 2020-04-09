@@ -12,14 +12,17 @@ footer: Copyright, North Star Township 2020.
 ---
 
 ::: danger Board Meeting Change Notice
-Due to the COVID-19 pandemic, the April Board meeting will be held as a conference call.
-The dial in phone number and access code/PIN will be posted here to ensure the public 
-has an opportunity to attend the meeting.
+Due to the COVID-19 pandemic, the next Board Meeting on **April 20 2020 @ 6:30pm** will be held 
+as a conference call.  The dial in phone number and access PIN are posted below.
+
+**Dial-In Number: 712-770-4927  PIN Number: 718924#**  
+[Click Here For Agenda](/township/agenda.md)
 :::
 
 ::: warning Upcoming Events
 **April Board Meeting (Monday, April 20 2020 @ 6:30pm)** <br>
-**Recycling Center Hours (Saturday, 9:00am - 12:00pm)**
+**May Board Meeting (Monday, May 18 2020 @ 6:30pm)** <br>
+**Recycling Center Hours (Saturday, 9:00am - 12:00pm)** 
 :::
 
 ::: tip Web Site Under Construction
