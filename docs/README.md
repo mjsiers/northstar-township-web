@@ -12,7 +12,7 @@ footer: Copyright, North Star Township 2020.
 ---
 
 ::: danger Board Meeting Change Notice
-Due to the COVID-19 pandemic, the next Board Meeting on **April 20 2020 @ 6:30pm** will be held 
+Due to the COVID-19 pandemic, the next Board Meeting on **June 15 2020 @ 6:30pm** will be held 
 as a conference call.  The phone number and access PIN are posted below. Please use a cellphone or 
 internet calling application in order to avoid a long-distance charge.
 
@@ -21,9 +21,13 @@ internet calling application in order to avoid a long-distance charge.
 :::
 
 ::: warning Upcoming Events
-**April Board Meeting (Monday, April 20 2020 @ 6:30pm)** <br>
-**May Board Meeting (Monday, May 18 2020 @ 6:30pm)** <br>
+**June Board Meeting (Monday, June 15 2020 @ 6:30pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)** 
+:::
+
+::: tip Township Job Postings
+The open job postings for the Township will be posted on the web site soon.  Please
+revisit the web site to review the job descriptions once they are published.
 :::
 
 ::: tip Web Site Under Construction
