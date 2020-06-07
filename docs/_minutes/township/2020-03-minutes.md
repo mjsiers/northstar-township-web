@@ -3,6 +3,9 @@ title: Minutes (Mar., 2020)
 date: 2020-03-16
 blog_post: true
 tags: 
+  - FireEMS
+  - Road
+  - Recycling
 sidebar: auto
 ---
 
