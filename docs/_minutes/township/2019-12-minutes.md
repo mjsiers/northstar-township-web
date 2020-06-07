@@ -3,6 +3,9 @@ title: Minutes (Dec., 2019)
 date: 2019-12-16
 blog_post: true
 tags: 
+  - FireEMS
+  - Road
+  - Recycling
 sidebar: auto
 ---
 
