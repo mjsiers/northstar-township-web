@@ -19,5 +19,5 @@ title: Board Meeting Agenda
 ### New Business
 ### Calendar Update – Next 2 Months Deadlines / Events
 ### Review of Duties
-### Next Board Meeting (May 18, 2020 6:30pm)
+### Next Board Meeting (July 20, 2020 6:30pm)
 ### Adjournment
