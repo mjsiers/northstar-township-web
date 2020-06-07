@@ -22,12 +22,8 @@ internet calling application in order to avoid a long-distance charge.
 
 ::: warning Upcoming Events
 **June Board Meeting (Monday, June 15 2020 @ 6:30pm)** <br>
+**July Board Meeting (Monday, July 20 2020 @ 6:30pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)** 
-:::
-
-::: tip Township Job Postings
-The open job postings for the Township will be posted on the web site soon.  Please
-revisit the web site to review the job descriptions once they are published.
 :::
 
 ::: tip Web Site Under Construction

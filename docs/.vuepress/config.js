@@ -7,6 +7,7 @@ module.exports = {
           { text: 'BOARD', link: '/township/' },
           { text: 'FIRE/EMS', link: '/fireems/' },
           { text: 'RECYCLING', link: '/recycling/' },
+          { text: 'JOBS', link: '/jobs/' },
         ],
         sidebar: [
           {
@@ -28,7 +29,16 @@ module.exports = {
               '/fireems/members',
               '/fireems/events'
             ]
-          }
+          },
+          {
+            title: 'Job Postings',
+            collapsable: false,
+            children: [
+              '/jobs/clerk',
+              '/jobs/treasurer',
+              '/jobs/weedinspector',              
+            ]
+          },
         ]
     },
     plugins: [
