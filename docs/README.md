@@ -26,6 +26,11 @@ internet calling application in order to avoid a long-distance charge.
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)** 
 :::
 
+::: tip Township is Hiring
+The Town of North Star is seeking applications for 3 part-time positions.  Please check
+the [Jobs](/jobs) page for the job descriptions and the application procedure.
+:::
+
 ::: tip Web Site Under Construction
 We are actively working on the design/implementation of the new North Star Township 
 web site.  Please understand that not all features are fully operation yet.

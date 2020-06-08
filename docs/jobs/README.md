@@ -6,11 +6,27 @@ title: Township Jobs
 The Town of North Star is seeking applications for the following part-time positions.
 The requirements and duties for each position are provided on the following linked web pages.
 
-Positions
----------
-* [Town Clerk](./clerk.md)
-* [Town Treasurer](./treasurer.md)
-* [Weed Inspector](./weedinspector.md)
+Open Positions
+--------------
+### [Town Clerk](./clerk.md)
+* **Begin work**:  July 1, 2020 or as soon as feasible.
+* **Deadline to apply**:  July 10, 2020 or until position is filled.
+* **Workload and Benefits**:  Position entails approximately 5-15 hours per month.  Medicare, Social Security, PERA retirement.  Laptop and Clerk training provided. Mileage provided when travel is required.
+* **Term of Office**:  2 years, renewable.
+* **Description**: [Click here](./clerk.md) for job description and requirements.
+
+### [Town Treasurer](./treasurer.md)
+* **Begin work**:  February, 2021.
+* **Deadline to apply**:  September 12, 2020 or until position is filled.
+* **Workload and Benefits**: Position entails approximately 5-15 hours per month.  Medicare, Social Security, PERA retirement.  Laptop and Treasurer training provided.  Mileage provided for required travel.
+* **Term of Office**:  2 years, renewable.
+* **Description**: [Click here](./treasurer.md) for job description and requirements.
+
+### [Weed Inspector](./weedinspector.md)
+* **Begin work**:  Summer, 2020.
+* **Deadline to apply**:  July 10, 2020 or until position is filled.
+* **Workload and Benefits**:  This is a contract position.  This position requires approximately 10 hours of effort and travel to prepare an annual weed inspection and report.  Orientation to township roads and previous data and training on weed inspection can be provided.
+* **Description**: [Click here](./weedinspector.md) for job description and requirements.
 
 Application Procedure
 ---------------------
