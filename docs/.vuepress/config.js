@@ -7,6 +7,7 @@ module.exports = {
           { text: 'BOARD', link: '/township/' },
           { text: 'FIRE/EMS', link: '/fireems/' },
           { text: 'RECYCLING', link: '/recycling/' },
+          { text: 'VOTING', link: '/voting/' },
           { text: 'JOBS', link: '/jobs/' },
         ],
         sidebar: [
