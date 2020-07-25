@@ -3,7 +3,7 @@ title: Township Voting
 ---
 
 # Voting
-Voting in North Star Township is held at the Town Hall located at 7700 Pequaywan Lake Road. The poll is open for in person voting for federal, state, and local elections. Residents can register to vote the day of the election. Proper identification is required at the time of voting. 
+Voting in North Star Township is held at the Town Hall located at 7700 Pequaywan Lake Road. The poll is open for in person voting for federal, state, and local elections. Residents can register to vote the day of the election. Proper identification is only required if you are registering to vote. 
 
 Early Voting
 ------------
