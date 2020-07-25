@@ -3,7 +3,7 @@ title: Township Voting
 ---
 
 # Voting
-Voting in North Star Township is held at the Town Hall located at 7700 Pequaywan Lake Road. The poll is open for in person voting for federal, state, and local elections. Residents can register to vote the day of the election. Proper identification is only required if you are registering to vote. 
+Voting in North Star Township is held at the Town Hall located at 7700 Pequaywan Lake Road. The poll is open for in person voting for federal, state, and local elections. Residents can register to vote the day of the election. Proper identification is required only if you are registering to vote. 
 
 :::danger 2020 November General Election Notice
 Due to the COVID-19 pandemic, the North Star Township Board passed **Resolution #04-20** [(click here)](/township/resolutions/resolution-04-20.md) that designates the St. Louis County Courthouse as the in-person polling place for the 2020 November General Election.  **All registered voters will automatically receive a mail in ballot for this election**.
