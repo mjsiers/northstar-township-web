@@ -12,7 +12,7 @@ footer: Copyright, North Star Township 2020.
 ---
 
 :::danger 2020 November General Election Notice
-Due to the COVID-19 pandemic, the North Star Township Board passed **Resolution #04-20** [(click here)](/township/resolutions/resolution-04-20.md) that designates the St. Louis County Courthouse as the in-person polling place for North Star Township.  **All registered voters will automatically receive a mail in ballot for the election**.
+Due to the COVID-19 pandemic, the North Star Township Board passed **Resolution #04-20** [(click here)](/township/resolutions/resolution-04-20.md) that designates the St. Louis County Courthouse as the in-person polling place for the 2020 November General Election.  **All registered voters will automatically receive a mail in ballot for this election**.
 :::
 
 ::: danger Board Meeting Change Notice
