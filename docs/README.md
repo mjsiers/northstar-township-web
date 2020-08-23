@@ -16,7 +16,7 @@ Due to the COVID-19 pandemic, the North Star Township Board passed **Resolution 
 :::
 
 ::: danger Board Meeting Change Notice
-Due to the COVID-19 pandemic, the next Board Meeting on **August 17 2020 @ 6:30pm** will be held 
+Due to the COVID-19 pandemic, the next Board Meeting on **September 21 2020 @ 6:30pm** will be held 
 as a conference call.  The phone number and access PIN are posted below. Please use a cellphone or 
 internet calling application in order to avoid a long-distance charge.
 
@@ -25,7 +25,8 @@ internet calling application in order to avoid a long-distance charge.
 :::
 
 ::: warning Upcoming Events
-**August Board Meeting (Monday, August 17 2020 @ 6:30pm)** <br>
+**September Board Meeting (Monday, September 21 2020 @ 6:30pm)** <br>
+**October Board Meeting (Monday, October 19 2020 @ 6:30pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)** 
 :::
 
