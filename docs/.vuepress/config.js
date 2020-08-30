@@ -57,6 +57,9 @@ module.exports = {
             },
           },
         ],
+      },
+      '@vuepress/google-analytics', {
+        'ga': 'UA-176314011-1'
       }]
     ]
 }
