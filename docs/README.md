@@ -25,7 +25,6 @@ internet calling application in order to avoid a long-distance charge.
 :::
 
 ::: warning Upcoming Events
-**September Board Meeting (Monday, September 21 2020 @ 6:30pm)** <br>
 **October Board Meeting (Monday, October 19 2020 @ 6:30pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)** 
 :::
