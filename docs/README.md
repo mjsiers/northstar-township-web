@@ -21,12 +21,13 @@ internet calling application in order to avoid a long-distance charge.
 :::
 
 ::: warning Upcoming Events
-**January Board Meeting (Monday, January 18 2020 @ 6:30pm)** <br>
+**December Board Meeting (Monday, December 21 2020 @ 6:30pm)** <br>
+**January Board Meeting (Tuesday, January 19 2020 @ 6:30pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)** 
 :::
 
 ::: tip Township is Hiring
-The Town of North Star is seeking applications for 2 part-time positions.  Please check
+The Town of North Star is seeking applications for 1 part-time positions.  Please check
 the [Jobs](/jobs) page for the job descriptions and the application procedure.
 :::
 

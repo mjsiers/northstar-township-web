@@ -8,13 +8,6 @@ The requirements and duties for each position are provided on the following link
 
 Open Positions
 --------------
-### [Town Treasurer](./treasurer.md)
-* **Begin work**:  February, 2021.
-* **Deadline to apply**:  September 12, 2020 or until position is filled.
-* **Workload and Benefits**: Position entails approximately 5-15 hours per month.  Medicare, Social Security, PERA retirement.  Laptop and Treasurer training provided.  Mileage provided for required travel.
-* **Term of Office**:  2 years, renewable.
-* **Description**: [Click here](./treasurer.md) for job description and requirements.
-
 ### [Weed Inspector](./weedinspector.md)
 * **Begin work**:  Summer, 2020.
 * **Deadline to apply**:  July 10, 2020 or until position is filled.
