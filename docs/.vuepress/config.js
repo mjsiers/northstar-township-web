@@ -35,7 +35,6 @@ module.exports = {
             title: 'Job Postings',
             collapsable: false,
             children: [
-              '/jobs/clerk',
               '/jobs/treasurer',
               '/jobs/weedinspector',              
             ]
