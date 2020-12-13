@@ -11,6 +11,16 @@ features:
 footer: Copyright, North Star Township 2020.
 ---
 
+::: warning Upcoming Events
+**December Board Meeting (Monday, December 21 2020 @ 6:30pm)** <br>
+**January Board Meeting (Tuesday, January 19 2020 @ 6:30pm)** <br>
+**Recycling Center Hours (Saturday, 9:00am - 12:00pm)**<br>
+
+<font size=4 color=blue>**Join the North Star Township Email List!**</font>  
+Sign up now to receive North Star Township news by email.  
+**[Click Here to Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSchi80e9cPFt7P9j4DvA5xjZrsBPpcCatBxafAepT7E_KfxEA/viewform)**
+:::
+
 ::: danger Board Meeting Change Notice
 Due to the COVID-19 pandemic, the next Board Meeting on **December 21 2020 @ 6:30pm** will be held 
 as a conference call.  The phone number and access PIN are posted below. Please use a cellphone or 
@@ -18,12 +28,6 @@ internet calling application in order to avoid a long-distance charge.
 
 **Dial-In Number: 712-770-4927  PIN Number: 718924#**  
 [Click Here For Agenda](/township/agenda.md)
-:::
-
-::: warning Upcoming Events
-**December Board Meeting (Monday, December 21 2020 @ 6:30pm)** <br>
-**January Board Meeting (Tuesday, January 19 2020 @ 6:30pm)** <br>
-**Recycling Center Hours (Saturday, 9:00am - 12:00pm)** 
 :::
 
 ::: tip Township is Hiring
