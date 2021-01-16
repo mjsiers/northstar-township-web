@@ -13,6 +13,7 @@ footer: Copyright, North Star Township 2020.
 
 ::: warning Upcoming Events
 **January Board Meeting (Tuesday, January 19 2021 @ 6:30pm)** <br>
+**North Star 2020 Audit Meeting (Wednesday, January 27 2021 @ 6:30pm)** <br>
 **February Board Meeting (Monday, February 15 2021 @ 6:30pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)**<br>
 
@@ -28,6 +29,11 @@ internet calling application in order to avoid a long-distance charge.
 
 **Dial-In Number: 712-770-4927  PIN Number: 718924#**  
 [Click Here For Agenda](/township/agenda.md)
+:::
+
+::: danger North Star 2020 Audit Meeting
+The Town Board will meet to conduct the 2020 Financial Audit at the town hall
+on **January 27 2021 @ 6:30pm**.
 :::
 
 ::: tip Township is Hiring
