@@ -12,7 +12,6 @@ footer: Copyright, North Star Township 2020.
 ---
 
 ::: warning Upcoming Events
-**January Board Meeting (Tuesday, January 19 2021 @ 6:30pm)** <br>
 **North Star 2020 Audit Meeting (Wednesday, January 27 2021 @ 6:30pm)** <br>
 **February Board Meeting (Tuesday, February 16 2021 @ 6:30pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)**<br>
