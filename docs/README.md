@@ -22,6 +22,13 @@ Sign up now to receive North Star Township news by email.
 **[Click Here to Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSchi80e9cPFt7P9j4DvA5xjZrsBPpcCatBxafAepT7E_KfxEA/viewform)**
 :::
 
+::: tip Town Board Election Notice
+The Town Board Election on **Tuesday, March 9 2021 @ 5pm-8pm** will have one Supervisor
+positon on the ballot with the following candidate(s).
+- Richard Dillion
+- Write-in Candidate(s)
+:::
+
 ::: danger Annual Meeting Change Notice
 Due to the COVID-19 pandemic, the Annual Meeting on **March 9 2021 @ 8:15pm** will be held 
 as a telephone conference call.  The phone numbers and access PINs are posted below.

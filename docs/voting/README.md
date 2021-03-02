@@ -10,7 +10,10 @@ Voting in North Star Township is held at the Town Hall located at 7700 Pequaywan
 
 Voting for Town Election
 ------------------------
-The 2021 Town Board Election will be held in-person at the Town Hall on 3/9/2021 from 5pm - 8pm.
+The 2021 Town Board Election will be held in-person at the Town Hall on 3/9/2021 from 5pm - 8pm.  
+The election is for one Supervisor positon with the following candidate(s) on the ballot.
+- Richard Dillion
+- Write-in Candidate(s)
 
 Absentee Voting for Town Election
 ---------------------------------
