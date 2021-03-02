@@ -24,7 +24,7 @@ Sign up now to receive North Star Township news by email.
 
 ::: tip Town Board Election Notice
 The Town Board Election on **Tuesday, March 9 2021 @ 5pm-8pm** will have one Supervisor
-positon on the ballot with the following candidate(s).
+position on the ballot with the following candidate(s).
 - Richard Dillion
 - Write-in Candidate(s)
 :::
