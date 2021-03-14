@@ -17,7 +17,7 @@ Board Vice-Chair, Township Roads, Fire Department<br>
 **Email Address**: [gmantay@northstartownship.org](mailto:gmantay@northstartownship.org) 
 
 ## Supervisor Dick Dillon
-**Election Term**: 2018-2021<br>
+**Election Term**: 2021-2024<br>
 **Responsibilities**: 
 Board Member, Town Hall Maintenance<br>
 **Email Address**: [ddillon@northstartownship.org](mailto:ddillon@northstartownship.org) 
