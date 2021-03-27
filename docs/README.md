@@ -13,7 +13,8 @@ footer: Copyright, North Star Township 2020.
 
 ::: warning Upcoming Events
 **April Board Meeting (Monday, April 19 2021 @ 6:30pm)** <br>
-**May Board Meeting (TBD)** <br>
+**May Board Meeting (Monday, May 17 2021 @ 6:30pm)** <br>
+**Annual Meeting (Tuesday, June 8 2021 @ 7:00pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)**<br>
 
 <font size=4 color=blue>**Join the North Star Township Email List!**</font>  
@@ -26,7 +27,7 @@ Due to the COVID-19 pandemic, the next Board Meeting on **April 19 2021 @ 6:30pm
 as a conference call.  The phone number and access PIN are posted below. Please use a cellphone or 
 internet calling application in order to avoid a long-distance charge.
 
-**Dial-In Number: 425-436-6362  PIN Number: 3839349#**  
+**Dial-In Number: 712-770-4927 PIN Number: 718924#**  
 [Click Here For Agenda](/township/agenda.md)
 :::
 
@@ -35,7 +36,7 @@ Richard Dillion was re-elected Town Board Supervisor on **Tuesday, March 9 2021*
 :::
 
 ::: danger Annual Meeting Change Notice
-The Town Board realizes that holding a discussion and votes on the 2022 levy budget or other matters is extremely difficult by telephone call.  The Town Board intends to ask the township electors to recess the March 9 meeting and continue on **June 8, 2021 at 7 pm**, when the township can conduct the annual meeting fully in-person, when we can meet with good airflow, appropriate distancing, and when conditions related to COVID-19 may have improved.  A later date for a safe, in-person meeting will allow a more through discussion and vote on the 2022 Budget, levy and other matters from the residents.  The proposed 2022 budget levy will be provided for review and approval at the summer meeting.
+Town of North Star Annual Meeting to be held **June 8, 2021 at 7 pm**.
 :::
 
 ::: tip Township is Hiring
