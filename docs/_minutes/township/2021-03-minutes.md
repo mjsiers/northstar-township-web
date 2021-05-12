@@ -90,6 +90,6 @@ Carrie: create a Q1 Township enewsletter, create a posting regarding resuming me
 ## ADJOURNMENT
 Jan makes a motion to adjourn at 7:32 pm, second Gary. Dick aye, Gary aye, Jan aye.
 
-Respectively submitted,
-Carrie Landman
+Respectively submitted,  
+Carrie Landman  
 Town Clerk
