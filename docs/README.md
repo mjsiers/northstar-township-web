@@ -12,7 +12,6 @@ footer: Copyright, North Star Township 2020.
 ---
 
 ::: warning Upcoming Events
-**April Board Meeting (Monday, April 19 2021 @ 6:30pm)** <br>
 **May Board Meeting (Monday, May 17 2021 @ 6:30pm)** <br>
 **Annual Meeting (Tuesday, June 8 2021 @ 7:00pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)**<br>
@@ -23,16 +22,15 @@ Sign up now to receive North Star Township news by email.
 :::
 
 ::: danger Board Meeting Change Notice
-Due to the COVID-19 pandemic, the next Board Meeting on **April 19 2021 @ 6:30pm** will be held 
-as a conference call.  The phone number and access PIN are posted below. Please use a cellphone or 
-internet calling application in order to avoid a long-distance charge.
+In-person meetings will resume at the North Star Town Hall effective with the 
+**May 17, 2021 @ 6:30pm** meeting.  All participants will need to comply with the following:
+- Masks are mandatory.
+- Participants must be seated six feet apart.
+- Participant’s temperature will be checked prior to entering.
+- If you are feeling unwell, you should not attend.
 
-**Dial-In Number: 712-770-4927 PIN Number: 718924#**  
-[Click Here For Agenda](/township/agenda.md)
-:::
-
-::: tip Town Board Election Results
-Richard Dillion was re-elected Town Board Supervisor on **Tuesday, March 9 2021**.
+For the health and safety of the Board and our residents, please plan to follow these 
+guidelines when attending monthly in-person meetings.
 :::
 
 ::: danger Annual Meeting Change Notice
