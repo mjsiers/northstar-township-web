@@ -12,8 +12,8 @@ footer: Copyright, North Star Township 2020.
 ---
 
 ::: warning Upcoming Events
-**May Board Meeting (Monday, May 17 2021 @ 6:30pm)** <br>
 **Annual Meeting (Tuesday, June 8 2021 @ 7:00pm)** <br>
+**June Board Meeting (Monday, June 21 2021 @ 6:30pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)**<br>
 
 <font size=4 color=blue>**Join the North Star Township Email List!**</font>  
@@ -21,7 +21,12 @@ Sign up now to receive North Star Township news by email.
 **[Click Here to Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSchi80e9cPFt7P9j4DvA5xjZrsBPpcCatBxafAepT7E_KfxEA/viewform)**
 :::
 
-::: danger Board Meeting Change Notice
+::: danger High Fire Danger Conditions
+North Star Fire Chief recommends no burning until we have a heavy duration of rain or green up.  
+There have been **several fires** recently in our area.  
+:::
+
+::: warning Board Meeting Change Notice
 In-person meetings will resume at the North Star Town Hall effective with the 
 **May 17, 2021 @ 6:30pm** meeting.  All participants will need to comply with the following:
 - Masks are mandatory.
@@ -31,10 +36,6 @@ In-person meetings will resume at the North Star Town Hall effective with the
 
 For the health and safety of the Board and our residents, please plan to follow these 
 guidelines when attending monthly in-person meetings.
-:::
-
-::: danger Annual Meeting Change Notice
-Town of North Star Annual Meeting to be held **June 8, 2021 at 7 pm**.
 :::
 
 ::: tip Township is Hiring
