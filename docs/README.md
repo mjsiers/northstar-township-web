@@ -12,8 +12,8 @@ footer: Copyright, North Star Township 2020.
 ---
 
 ::: warning Upcoming Events
-**Annual Meeting (Tuesday, June 8 2021 @ 7:00pm)** <br>
 **June Board Meeting (Monday, June 21 2021 @ 6:30pm)** <br>
+**July Board Meeting (Monday, July 19 2021 @ 6:30pm)** <br>
 **Recycling Center Hours (Saturday, 9:00am - 12:00pm)**<br>
 
 <font size=4 color=blue>**Join the North Star Township Email List!**</font>  
