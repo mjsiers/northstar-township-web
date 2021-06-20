@@ -1,0 +1,64 @@
+# Javascript Node CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-javascript/ for more details
+#
+version: 2
+jobs:
+  build:
+    branches:
+      only:
+        - master  
+    docker:
+      - image: circleci/node:10.16
+
+
+   # docker:
+      # specify the version you desire here
+      #- image: circleci/node:10.16
+      # Specify service dependencies here if necessary
+      # CircleCI maintains a library of pre-built images
+      # documented at https://circleci.com/docs/2.0/circleci-images/
+      # - image: circleci/mongo:3.4.4
+    #working_directory: ~/repo
+
+    #https://discuss.circleci.com/t/gh-pages-not-being-ignored/26062
+    #https://circleci.com/docs/2.0/yarn/
+
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "34:ec:79:ac:4e:41:b9:bc:c8:e2:ba:fa:3e:8c:6a:41"
+
+      - checkout
+      #- restore_cache:
+      #    name: Restore Yarn Package Cache
+      #    keys:
+      #      - yarn-packages-{{ checksum "yarn.lock" }}
+
+      - run:
+          name: Install Dependencies
+          command: yarn install --frozen-lockfile
+
+     #- save_cache:
+     #     name: Save Yarn Package Cache
+     #     key: yarn-packages-{{ checksum "yarn.lock" }}
+     #     paths:
+     #       - ~/.cache/yarn
+
+      - run:
+          name: Build static pages with VuePress
+          command: |
+            yarn docs:build
+
+      - deploy:
+          name: Deploy
+          command: |
+              cd docs/.vuepress/dist
+              cp -a ../../../.circleci/. .circleci/
+              echo 'northstartownship.org' > CNAME
+              git config --global user.email "circleci@northstar-township-web.com"
+              git config --global user.name "Circle CI"
+              git init
+              git add -A
+              git commit -m '[ci skip] deploy'
+              git push -f git@github.com:mjsiers/northstar-township-web.git master:gh-pages
